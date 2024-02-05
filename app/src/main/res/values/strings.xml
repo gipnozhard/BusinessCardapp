@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card app</string>
+    <string name="lavrentyev_pavel">Lavrentyev Pavel</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="https_github_com_gipnozhard">https://github.com/gipnozhard</string>
+    <string name="tel">+7 (915)-279-08-38</string>
+    <string name="pa_lavrentyev_gmail_com">pa.lavrentyev@gmail.com</string>
+</resources>
