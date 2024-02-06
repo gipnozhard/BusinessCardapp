@@ -7,6 +7,9 @@ Unit1: Your first Android app -> Pathway 3: Build a basic layout -> 6. Project: 
 
 --------------------------------------------------
 
-это результат который получился:
+это результат который получился, в коде все прокоментировал для понимания:
 
 ![image](https://github.com/gipnozhard/BusinessCardapp/assets/71705375/fdeda71c-5576-4d4c-9a71-ec56794e7a9c)
+
+
+#AndroidBasics добавлю хештег на вякий случай)))
